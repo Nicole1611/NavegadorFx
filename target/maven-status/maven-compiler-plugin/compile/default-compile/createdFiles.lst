@@ -1,0 +1,5 @@
+module-info.class
+com\mycompany\navegadorfx\model\Pagina.class
+com\mycompany\navegadorfx\controller\StackController.class
+com\mycompany\navegadorfx\App.class
+com\mycompany\navegadorfx\view\StackCanvas.class
